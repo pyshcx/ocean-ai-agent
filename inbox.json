@@ -1,0 +1,82 @@
+[
+    {
+      "id": "e001",
+      "sender": "hr@techcorp.com",
+      "subject": "Urgent: Submit your expense reports",
+      "body": "Hi Team, Please ensure all travel expense reports for October are submitted by EOD tomorrow. Failure to do so will delay reimbursement.",
+      "timestamp": "2025-11-21 09:30:00",
+      "read": false
+    },
+    {
+      "id": "e002",
+      "sender": "newsletter@technews.io",
+      "subject": "Weekly Tech Roundup: AI Agents on the Rise",
+      "body": "Top stories this week: 1. The rise of autonomous agents. 2. Python 3.13 released. 3. New CSS features for 2025. Click here to read more.",
+      "timestamp": "2025-11-21 10:15:00",
+      "read": true
+    },
+    {
+      "id": "e003",
+      "sender": "manager@oceanai.com",
+      "subject": "Project Sync - Next Steps",
+      "body": "Hi Pranay, Can we hop on a quick call tomorrow at 2 PM to discuss the deployment timeline? Also, please send me the latest architecture diagram before the meeting.",
+      "timestamp": "2025-11-21 11:45:00",
+      "read": false
+    },
+    {
+      "id": "e004",
+      "sender": "promo@fast-loans.net",
+      "subject": "You have been selected for a $5000 cash prize!",
+      "body": "Congratulations! You are our lucky winner. Click the link below to claim your prize immediately. Limited time offer!",
+      "timestamp": "2025-11-21 12:00:00",
+      "read": false
+    },
+    {
+      "id": "e005",
+      "sender": "sakshi.collab@vit.ac.in",
+      "subject": "Updates on the Astrochemistry ML paper",
+      "body": "Hey, I finished the data cleaning part. Can you review the model training script? We need to submit the draft by Friday.",
+      "timestamp": "2025-11-21 14:20:00",
+      "read": true
+    },
+    {
+      "id": "e006",
+      "sender": "jira@oceanai.com",
+      "subject": "[JIRA] New Issue Assigned: Fix Login Bug",
+      "body": "A new issue has been assigned to you. Issue #402: Login page crashes on mobile view. Priority: High. Please fix this by Wednesday.",
+      "timestamp": "2025-11-21 15:00:00",
+      "read": false
+    },
+    {
+      "id": "e007",
+      "sender": "events@citymeetup.com",
+      "subject": "Invitation: Developer Mixer this Saturday",
+      "body": "Join us for drinks and code this Saturday at the Downtown Hub. RSVP required.",
+      "timestamp": "2025-11-21 16:30:00",
+      "read": true
+    },
+    {
+      "id": "e008",
+      "sender": "karan.dugar@vit.ac.in",
+      "subject": "Lab evaluation",
+      "body": "Bro, are you done with the Windows Registry assignment? I'm stuck on the hive analysis part. Let me know if you're free to help.",
+      "timestamp": "2025-11-21 17:10:00",
+      "read": false
+    },
+    {
+      "id": "e009",
+      "sender": "security@alert.com",
+      "subject": "Security Alert: New sign-in detected",
+      "body": "We noticed a new sign-in to your account from a Linux device in Kochi, India. If this was you, you can ignore this message.",
+      "timestamp": "2025-11-21 18:00:00",
+      "read": true
+    },
+    {
+      "id": "e010",
+      "sender": "amazon-orders@amazon.in",
+      "subject": "Your package has been delivered",
+      "body": "Your order #404-1234567-1234567 has been delivered. Handed to resident.",
+      "timestamp": "2025-11-21 19:30:00",
+      "read": true
+    }
+  ]
